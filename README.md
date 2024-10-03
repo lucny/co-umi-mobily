@@ -1,2 +1,3 @@
-# co-umi-mobily
-Prezentace o možnostech mobilů a mobilních aplikací
+# Kódování
+Autor: **Marek Lučný**, *2024*
+> Prezentace do předmětu PVY, IT1
